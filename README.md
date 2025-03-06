@@ -44,7 +44,7 @@ Jane Smith        90
 Alice Johnson     78
 ```
 
-## 📑 Example Output (`input.txt`)
+## 📑 Example Output (`output.txt`)
 ```
 Alice Johnson     78
 John Doe          85
