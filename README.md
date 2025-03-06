@@ -39,16 +39,21 @@ This COBOL program reads student names and grades from an input file (`📂 inpu
 
 ## 📑 Example Input (`input.txt`)
 ```
-John Doe          85
-Jane Smith        90
-Alice Johnson     78
+Neo Thobela          85
+Neo Malatsi          90
+Nthabiseng Lekwano   78
+Kgaugelo Mokgalaka   88
+Xolani Mbambo        82
 ```
 
 ## 📑 Example Output (`output.txt`)
 ```
-Alice Johnson     78
-John Doe          85
-Jane Smith        90
+Nthabiseng Lekwano   78
+Xolani Mbambo        82
+Neo Thobela          85
+Kgaugelo Mokgalaka   88
+Neo Malatsi          90
+
 ```
 
 
