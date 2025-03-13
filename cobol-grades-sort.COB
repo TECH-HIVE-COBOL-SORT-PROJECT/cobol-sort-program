@@ -1,11 +1,11 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: TECH-HIVE
+      * Date: 14 MARCH
+      * Purpose: SORTING STUDENT GRADES IN ASCENDING ORDER
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. TECH-HIVE.
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
@@ -40,6 +40,6 @@
            ON ASCENDING KEY SORT-GRADE
            USING INPUT-FILE
            GIVING OUTPUT-FILE
-           DISPLAY "PROGRAM EXUCTED SUCCESSFULY"
+           DISPLAY "PROGRAM EXECUTED SUCCESSFULY"
             STOP RUN.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM TECH-HIVE.
